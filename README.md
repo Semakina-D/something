@@ -1,3 +1,3 @@
 # something
 Меню
-<a href="something/page1/">страница 1</a>
+<a href="/Something/index.html">страница 1</a>
