@@ -1,3 +1,3 @@
 # something
 Меню
-<a href="/something/">страница 1</a>
+<a href="something/something/">страница 1</a>
